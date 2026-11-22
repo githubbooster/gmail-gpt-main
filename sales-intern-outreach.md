@@ -4,7 +4,7 @@ Prepared 2026-11-22. Drafts only, nothing has been sent.
 
 **Read this first:** I couldn't open louisville.edu or bellarmine.edu directly (both sites are blocked in this session's network settings). Every contact detail below comes from search-engine extracts of the official .edu pages listed, not from the live pages. Click each source link and confirm the name, email and phone before you hit send.
 
-**Commission:** 10% of first-month revenue on closed deals, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal. All filled in below, since Bellarmine will only post a commission-only role if the payout is spelled out.
+**Pay:** $7.25/hour for all hours worked, plus 10% of first-month revenue on closed deals, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal.
 
 ---
 
@@ -44,10 +44,9 @@ Prepared 2026-11-22. Drafts only, nothing has been sent.
 
 ## 2. Things the schools require (flags)
 
-**Commission-only pay is the big one.**
-- **Bellarmine:** allowed, but only "if the payout structure is clearly defined." The listing needs real numbers.
-- **UofL:** no explicit commission-only rule found, but the excluded-postings list was only partly captured. Ask Greg before you post. The email below does that.
-- **Worth a quick check on your end:** a commission-only intern at a for-profit business can run into minimum wage rules, since the role isn't unpaid training and isn't clearly outside sales. A small hourly base or a guaranteed minimum would likely clear both schools faster. Run it by your accountant or an employment attorney.
+**Pay is now hourly plus commission, which clears the main hurdle.**
+- The role pays $7.25/hour (Kentucky minimum wage, confirm the current rate) plus commission, so neither school's commission-only or unpaid internship rules apply.
+- **On your end:** pay for every hour actually worked (have the intern log hours), pay on a regular payday, and treat them as a W-2 employee (payroll taxes, and workers' comp in Kentucky). Have your accountant confirm the setup.
 
 **UofL**
 - Employer account needs a physical address (no PO box), a working website, and a contact email that matches the website domain. sam@digitaladxpert.com works. A Gmail address wouldn't.
@@ -84,15 +83,14 @@ I'm hiring a sales intern for spring 2027 and would love to get it in front of y
 - Sales Intern, 10 to 15 hours a week, spring semester
 - Hybrid, mostly remote with in-person meetups around Louisville / Oldham County
 - Prospecting local businesses, outreach, booking sales calls and sitting in on my pitches
-- Commission only: 10% of first-month revenue on every deal they help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal
+- Paid: $7.25/hour plus 10% of first-month revenue on every deal they help close (most clients start at $1,250 a month, so about $125 a deal)
 - Happy to work with the school if the student wants credit
 
 A few questions:
 
-1. Is a commission-only internship okay to post? I'd rather ask up front than get it wrong.
-2. I know postings go through Cardinal Careers. I'm glad to set up an employer account if that's the right first step.
-3. Would you be open to sharing it with business and marketing students directly?
-4. Are there any spring career fairs or classroom visits where a small local employer would fit?
+1. I know postings go through Cardinal Careers. I'm glad to set up an employer account if that's the right first step.
+2. Would you be open to sharing it with business and marketing students directly?
+3. Are there any spring career fairs or classroom visits where a small local employer would fit?
 
 The full listing is below. Thanks for your time, and happy to jump on a call if that's easier.
 
@@ -119,15 +117,14 @@ I'm hiring a sales intern for spring 2027 and would love to get it in front of R
 - Sales Intern, 10 to 15 hours a week, spring semester
 - Hybrid, mostly remote with in-person meetups around Louisville / Oldham County
 - Prospecting local businesses, outreach, booking sales calls and sitting in on my pitches
-- Commission only: 10% of first-month revenue on every deal they help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal
+- Paid: $7.25/hour plus 10% of first-month revenue on every deal they help close (most clients start at $1,250 a month, so about $125 a deal)
 - Happy to work with the school if the student wants credit
 
 A few questions:
 
-1. I saw commission-only roles can be posted as long as the payout is clearly laid out. Does the listing below cover what you need?
-2. I'm glad to set up a Handshake employer account if that's the right first step.
-3. Would you be open to sharing it with business and marketing students directly?
-4. I saw the Spring Career Fair on Feb 11. Is there still room for employers, and is a classroom visit or tabling an option too?
+1. I'm glad to set up a Handshake employer account if that's the right first step.
+2. Would you be open to sharing it with business and marketing students directly?
+3. I saw the Spring Career Fair on Feb 11. Is there still room for employers, and is a classroom visit or tabling an option too?
 
 The full listing is below. Thanks for your time, and happy to jump on a call if that's easier.
 
@@ -164,7 +161,7 @@ You'll work directly with the owner and learn how a small agency finds and wins 
 - Hours flex around your classes
 - January through early May 2027
 - Hybrid: mostly remote, with in-person meetups in the Louisville / Oldham County area
-- Pay: commission only. You earn 10% of the first month's revenue on every deal you help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so that's about $125 per deal.
+- Pay: $7.25/hour plus commission. You earn 10% of the first month's revenue on every deal you help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so that's about $125 per deal.
 - No fees or upfront costs
 - Academic credit: glad to work with your school
 
