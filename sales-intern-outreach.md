@@ -145,7 +145,7 @@ Louisville / Oldham County, KY (hybrid) | Spring 2027 | 10 to 15 hrs/week
 
 Digital Ad Xperts is a local digital marketing agency. We help small businesses in the Louisville area get found online with SEO, Google Ads and web strategy.
 
-We're looking for a sales intern who wants real experience, not coffee runs. You'll work directly with the owner and learn how a small agency finds and wins clients.
+You'll work directly with the owner and learn how a small agency finds and wins clients.
 
 **What you'll do**
 - Research local businesses that could use our help
@@ -158,10 +158,10 @@ We're looking for a sales intern who wants real experience, not coffee runs. You
 - Business, marketing or communication students (any year)
 - Comfortable talking to people and picking up the phone
 - Organized, reliable and okay hearing "no"
-- Interest in digital marketing is a plus, no experience needed
+- No experience needed
 
 **The details**
-- 10 to 15 hours a week, flexible around your classes
+- Hours flex around your classes
 - January through early May 2027
 - Hybrid: mostly remote, with in-person meetups in the Louisville / Oldham County area
 - Pay: commission only. You earn 10% of the first month's revenue on every deal you help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so that's about $125 per deal.
