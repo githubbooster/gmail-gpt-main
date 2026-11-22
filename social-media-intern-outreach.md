@@ -1,4 +1,4 @@
-# Social Media Content Creator Intern Outreach: UofL + Bellarmine
+# Social Media Marketing Intern Outreach: UofL + Bellarmine
 
 Prepared 2026-11-22. Drafts only, nothing has been sent.
 
@@ -47,7 +47,7 @@ Prepared 2026-11-22. Drafts only, nothing has been sent.
 **Pay is hourly, which clears the main hurdle.**
 - The role pays an hourly wage above minimum, so neither school's commission-only or unpaid internship rules apply.
 - **On your end:** this would be your first employee. Pay for every hour actually worked (have the intern log hours), pay on a regular payday, and treat them as a W-2 employee (payroll taxes, and workers' comp in Kentucky). Confirm the setup yourself or use a payroll service.
-- **Client accounts:** the intern makes content for your clients, so decide up front who approves posts before they go live. The listing says you review everything.
+- **Client accounts:** the intern will comment and message as your clients, so set this up before day one: how they get account access (no shared personal passwords), a short tone guide per client, and what needs your sign-off. Keep the outreach manual. Bots and mass-DM tools can get a client's account restricted.
 
 **UofL**
 - Employer account needs a physical address (no PO box), a working website, and a contact email that matches the website domain. sam@digitaladxpert.com works. A Gmail address wouldn't.
@@ -79,11 +79,11 @@ Hi Greg,
 
 I'm Sam, I own Digital Ad Xperts, a digital marketing agency here in the Louisville / Oldham County area. We do SEO, Google Ads and web strategy for local businesses.
 
-I'm hiring a social media content creator intern for spring 2027 and would love to get it in front of your marketing students. Quick rundown:
+I'm hiring a social media marketing intern for spring 2027 and would love to get it in front of your marketing students. Quick rundown:
 
-- Social Media Content Creator Intern, 10 to 15 hours a week, spring semester
-- Local students only. Hybrid, with some in-person shoots at client businesses around Louisville / Oldham County
-- Creating short-form video (Reels, TikToks, Shorts), graphics and captions for our local business clients
+- Social Media Marketing Intern, 10 to 15 hours a week, spring semester
+- Local students only. Hybrid, with in-person check-ins and client visits around Louisville / Oldham County
+- Growing our local business clients' social accounts: engagement and outbound outreach first (comments, DMs, connecting with local accounts), tracking follower growth each week, plus some content creation
 - Paid: $10/hour
 - Happy to work with the school if the student wants credit
 
@@ -113,18 +113,18 @@ Hi Jackie,
 
 I'm Sam, I own Digital Ad Xperts, a digital marketing agency here in the Louisville / Oldham County area. We do SEO, Google Ads and web strategy for local businesses.
 
-I'm hiring a social media content creator intern for spring 2027 and would love to get it in front of your marketing, communication and design students. Quick rundown:
+I'm hiring a social media marketing intern for spring 2027 and would love to get it in front of your marketing, communication and business students. Quick rundown:
 
-- Social Media Content Creator Intern, 10 to 15 hours a week, spring semester
-- Local students only. Hybrid, with some in-person shoots at client businesses around Louisville / Oldham County
-- Creating short-form video (Reels, TikToks, Shorts), graphics and captions for our local business clients
+- Social Media Marketing Intern, 10 to 15 hours a week, spring semester
+- Local students only. Hybrid, with in-person check-ins and client visits around Louisville / Oldham County
+- Growing our local business clients' social accounts: engagement and outbound outreach first (comments, DMs, connecting with local accounts), tracking follower growth each week, plus some content creation
 - Paid: $10/hour
 - Happy to work with the school if the student wants credit
 
 A few questions:
 
 1. I'm glad to set up a Handshake employer account if that's the right first step.
-2. Would you be open to sharing it with marketing, communication and design students directly?
+2. Would you be open to sharing it with marketing, communication and business students directly?
 3. I saw the Spring Career Fair on Feb 11. Is there still room for employers, and is a classroom visit or tabling an option too?
 
 The full listing is below. Thanks for your time, and happy to jump on a call if that's easier.
@@ -138,32 +138,33 @@ digitaladxpert.com
 
 ## 5. Internship listing (paste into Handshake / Cardinal Careers)
 
-**Social Media Content Creator Intern, Digital Ad Xperts**
+**Social Media Marketing Intern, Digital Ad Xperts**
 Louisville / Oldham County, KY (hybrid, local candidates only) | Spring 2027 | 10 to 15 hrs/week | $10/hour
 
 Digital Ad Xperts is a local digital marketing agency. We help small businesses in the Louisville area get found online with SEO, Google Ads and web strategy.
 
-We're looking for a student who loves making content and wants real client work for their portfolio. You'll work directly with the owner and create content for local businesses.
+Social media marketing is more than posting and hoping people see it. We want a student who'll learn the other half: getting local businesses in front of new audiences. You'll work directly with the owner on real client accounts.
 
 **What you'll do**
-- Shoot and edit short-form video (Reels, TikToks, Shorts)
-- Design graphics for posts and stories
-- Write captions that sound like the business
-- Visit client businesses in the area to capture content
+- Engage with local audiences as our clients: comments, replies and DMs
+- Connect with new local accounts and customers
+- Build and run an organized outreach system
+- Track engagement and follower growth, and send a weekly report
+- Help create posts, short videos and captions
 
 **What we're looking for**
-- Marketing, communication, design or business students (any year)
-- Comfortable shooting and editing video on your phone
-- Some experience with Canva, CapCut or similar tools
-- Based in the Louisville / Oldham County area, able to get to local shoots
+- Marketing, communication or business students (any year)
+- Active on Instagram and TikTok
+- Friendly, professional writer
+- Organized and consistent
+- Based in the Louisville / Oldham County area
 
 **The details**
-- 10 to 15 hours a week, flexible around your classes
+- Hours flex around your classes
 - January through early May 2027
-- Hybrid: edit from anywhere, shoot in person at local businesses
+- Hybrid: mostly remote, with in-person check-ins and client visits
 - Pay: $10/hour
-- The owner reviews all content before it goes live
 - Academic credit: glad to work with your school
 
 **To apply**
-Send a resume and 2 or 3 samples of content you've made (class projects and personal accounts count) to sam@digitaladxpert.com.
+Send a resume and a few lines on a brand or local business you think does social media well, and why, to sam@digitaladxpert.com.
