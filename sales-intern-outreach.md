@@ -4,7 +4,7 @@ Prepared 2026-11-22. Drafts only, nothing has been sent.
 
 **Read this first:** I couldn't open louisville.edu or bellarmine.edu directly (both sites are blocked in this session's network settings). Every contact detail below comes from search-engine extracts of the official .edu pages listed, not from the live pages. Click each source link and confirm the name, email and phone before you hit send.
 
-**Commission:** 10% of first-month revenue on closed deals, filled in below. Bellarmine will only post a commission-only role if the payout is spelled out, so they may also ask when it gets paid and what a typical deal is worth.
+**Commission:** 10% of first-month revenue on closed deals, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal. All filled in below, since Bellarmine will only post a commission-only role if the payout is spelled out.
 
 ---
 
@@ -84,7 +84,7 @@ I'm hiring a sales intern for spring 2027 and would love to get it in front of y
 - Sales Intern, 10 to 15 hours a week, spring semester
 - Hybrid, mostly remote with in-person meetups around Louisville / Oldham County
 - Prospecting local businesses, outreach, booking sales calls and sitting in on my pitches
-- Commission only: 10% of first-month revenue on every deal they help close
+- Commission only: 10% of first-month revenue on every deal they help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal
 - Happy to work with the school if the student wants credit
 
 A few questions:
@@ -119,7 +119,7 @@ I'm hiring a sales intern for spring 2027 and would love to get it in front of R
 - Sales Intern, 10 to 15 hours a week, spring semester
 - Hybrid, mostly remote with in-person meetups around Louisville / Oldham County
 - Prospecting local businesses, outreach, booking sales calls and sitting in on my pitches
-- Commission only: 10% of first-month revenue on every deal they help close
+- Commission only: 10% of first-month revenue on every deal they help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so about $125 a deal
 - Happy to work with the school if the student wants credit
 
 A few questions:
@@ -164,7 +164,7 @@ We're looking for a sales intern who wants real experience, not coffee runs. You
 - 10 to 15 hours a week, flexible around your classes
 - January through early May 2027
 - Hybrid: mostly remote, with in-person meetups in the Louisville / Oldham County area
-- Pay: commission only. You earn 10% of the first month's revenue on every deal you help close.
+- Pay: commission only. You earn 10% of the first month's revenue on every deal you help close, paid when the client's first payment clears. Most clients start at $1,250 a month, so that's about $125 per deal.
 - No fees or upfront costs
 - Academic credit: glad to work with your school
 
